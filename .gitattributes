@@ -1,0 +1,5 @@
+
+# Save PNG as binary files
+*.png binary
+*.svg binary
+

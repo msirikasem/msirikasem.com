@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <h5>{{ .Params.form_description | markdownify }}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

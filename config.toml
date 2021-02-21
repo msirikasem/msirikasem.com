@@ -1,0 +1,91 @@
+baseURL       = "https://msirikasem.com/"
+languageCode  = "en-us"
+title         = "Melissa Sirikasem | Professional Design Services"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Design with me"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Melissa Sirikasem | Professional Design Services"
+  author = "Melissa Sirikasem"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Design with me"
+    url     = "contact"
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "Bring ideas to life through design"
+    tagline               = "WORK HARD, PLAY HARD"
+    primary_button        = "See My Works"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Connect with me"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "MY PROJECTS"
+    subtitle  = "Merging fantasy and reality, to bring visions to life digitally."
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "LET’S WORK TOGETHER"
+    primary_button      = "Design with me"
+    primary_button_url  = "contact"
+    secondary_button    = "Learn more"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Sitemap
+    [params.footer.sitemap]
+      title   = "Sitemap"
+      [[params.footer.sitemap.link]]
+        name = "About"
+        url  = "about"
+      [[params.footer.sitemap.link]]
+        name = "Portfolio"
+        url  = "portfolio"
+      [[params.footer.sitemap.link]]
+        name = "Contact"
+        url  = "contact"
+
+    # Footer Social Media
+    [params.footer.social]
+      title   = "Social Media"
+      [[params.footer.social.link]]
+        name = "LinkedIn"
+        url  = "https://www.linkedin.com/in/msirikasem/"
+
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact"
+      email   = "msirikasem@gmail.com"
+
