@@ -1,58 +1,47 @@
 .site-hero{
-  position: relative;
-  height: 100vh;
-  background-size: cover;
-  background-position: center center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  @include desktop{
+  /* @include desktop{
     height: auto;
     padding: 200px 0;
   }
   @include mobile{
     padding: 150px 0;
-  }
+  } */ 
+
+  position: relative;
+  padding-top: 8rem;
+  height: 16rem;
+  display: flex;
+  justify-content: center;
   &-content{
-    h1{
-      margin-bottom: 75px;
-      @include desktop-lg{
+    h6{
+      /* @include desktop-lg{
         font-size: 50px;
         margin-bottom: 50px;
       }
       @include mobile{
         font-size: 40px;
-      }
+      } */
+
+      font-family: $primary-font;
+      font-style: normal;
+      font-size: 1.5rem;
+      line-height: 2rem;
+      text-align: center;
+      letter-spacing: 0.02em;
+      color: #000000;
     }
-    &-buttons{
-      margin: 0;
-      padding: 0;
-      li{
-        display: inline-block;
-        @include mobile{
-          display: block;
-        }
-        &:not(:last-child){
-          margin-right: 30px;
-          @include mobile{
-            margin-right: 0;
-            margin-bottom: 20px;
-          }
-        }
-        .btn{
-          font-weight: 600;
-          @include mobile{
-            width: 90%;
-            margin: 0 auto;
-            display: block;
-          }
-        }
-      }
+
+    h1{
+      font-style: normal;
+      font-weight: bold;
+      font-size: 3rem;
+      line-height: 4rem;
     }
   }
-  &-scroll{
+
+  /* &-scroll{
     position: absolute;
     left: 50%; bottom: 70px;
     transform: translateX(-50%);
-  }
+  } */
 }

@@ -1,15 +1,38 @@
 .site-cta{
-  padding: 130px 0;
-  background-size: cover;
-  background-position: center center;
+
+  position: relative;
+  padding-top: 1rem;
+  padding-bottom: 5rem;
+  display: flex;
+  justify-content: center;
+
   @include desktop{
-    padding: 100px 0;
+    // padding-left: 38rem;
+    // padding-right: 38rem;
   }
   &-title{
+    font-family: $primary-font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4rem;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+
+    /*
     font-size: 70px;
     font-weight: 700;
     letter-spacing: 10px;
     margin-bottom: 60px;
+    */
+
+    a{
+      color: $secondary-color;
+      text-decoration: underline;
+    }
+
+    /*
     @include desktop{
       letter-spacing: 5px;
     }
@@ -21,29 +44,6 @@
       font-size: 40px;
       letter-spacing: 1;
     }
-  }
-  &-buttons{
-    margin: 0;
-    padding: 0;
-    li{
-      display: inline-block;
-      @include mobile{
-        display: block;
-      }
-      &:not(:last-child){
-        margin-right: 40px;
-        @include mobile{
-          margin-right: 0;
-          margin-bottom: 20px;
-        }
-      }
-      .btn{
-        @include mobile{
-          display: block;
-          width: 90%;
-          margin: 0 auto;
-        }
-      }
-    }
+    */
   }
 }
