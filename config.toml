@@ -20,7 +20,7 @@ publishDir    = "docs"
     weight  = 1
   [[menu.nav]]
     name    = "Work"
-    url     = "Work"
+    url     = "portfolio"
     weight  = 2
   [[menu.nav]]
     name    = "About"
