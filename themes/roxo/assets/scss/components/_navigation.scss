@@ -46,9 +46,6 @@
       padding: 15px 18px;
       position: relative;
     }
-    &:last-child{
-      margin-left: 15px;
-    }
   }
   .navbar-toggler{
     outline: 0;
@@ -59,21 +56,6 @@
       transition: all 0.2s;
       background: $primary-color;
       display: block;
-      &:not(:last-child){
-        margin-bottom: 5px;
-      }
-      &:nth-child(1){
-        transform: rotate(45deg);
-        transform-origin: 10% 10%;
-      }
-      &:nth-child(2){
-        opacity: 0;
-	      filter: alpha(opacity=0);
-      }
-      &:nth-child(3){
-        transform: rotate(-45deg);
-        transform-origin: 10% 90%;
-      }
     }
     &.collapsed{
       .icon-bar{
