@@ -55,7 +55,7 @@ publishDir    = "docs"
   [params.portfolio]
     enable    = true
     title     = "MY PROJECTS"
-    subtitle  = "Merging fantasy and reality, to bring visions to life digitally."
+    subtitle  = ""
 
   [params.call_to_action]
     enable              = true
