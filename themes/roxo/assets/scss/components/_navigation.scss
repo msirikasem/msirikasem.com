@@ -23,10 +23,12 @@
 
   a{
     color: $secondary-color;
-  }
 
-  .mfirst{
-    font-weight: 600;
+    .mfirst{
+      span{
+        font-weight: 100;
+      }
+    }
   }
 
   .navbar-brand{
