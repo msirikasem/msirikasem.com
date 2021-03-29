@@ -1,3 +1,4 @@
+
 .site-project{
   padding: 120px 0;
   overflow: hidden;
@@ -69,6 +70,9 @@
     }
   }
   &-cta{
+    a{
+      text-align: center;
+    }
     margin-top: 30px;
     display: inline-block;
     position: relative;
