@@ -43,7 +43,10 @@
       font-family: $secondary-font;
       color: $text-color-dark;
       transition: all .3s ease;
-      padding: 15px 18px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 36px;
+      padding-right: 0px;
       position: relative;
     }
   }
