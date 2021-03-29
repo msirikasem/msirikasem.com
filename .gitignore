@@ -1,3 +1,7 @@
 
 resources/_gen/
 .DS_Store
+
+# Local files ready to be deleted
+.trash/
+

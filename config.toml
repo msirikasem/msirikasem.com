@@ -3,6 +3,7 @@ languageCode  = "en-us"
 title         = "Melissa Sirikasem | Professional Design Services"
 theme         = "roxo"
 summarylength = 25
+publishDir    = "docs"
 
 # Site Menus
 [menu]
