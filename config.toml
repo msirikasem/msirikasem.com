@@ -19,17 +19,17 @@ publishDir    = "docs"
     url     = ""
     weight  = 1
   [[menu.nav]]
+    name    = "Work"
+    url     = "Work"
+    weight  = 1
+  [[menu.nav]]
     name    = "About"
     url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
-    weight  = 3
+    weight  = 1
   [[menu.nav]]
     name    = "Contact"
     url     = "contact"
-    weight  = 5
+    weight  = 1
 
 # Site Params
 [params]
