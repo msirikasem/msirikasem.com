@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+<script>window.onload = function() {
+  document.getElementById('menu-home').className = 'nav-link nav-link-active';
+};</script>
+
 {{ partial "hero.html" . }}
 
 {{ partial "counter.html" . }}

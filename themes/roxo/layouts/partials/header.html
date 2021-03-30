@@ -20,7 +20,7 @@
         {{$len := (len $menu)}} 
         {{ range $index, $element := $menu }} 
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}"
+            <a class="nav-link" id="{{ .Identifier }}" href="{{ .URL | absURL }}"
               >{{ .Name }}</a
             >
           </li>

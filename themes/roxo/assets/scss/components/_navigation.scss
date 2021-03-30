@@ -49,6 +49,13 @@
       padding-right: 0px;
       position: relative;
     }
+    .nav-link-active{
+      font-weight: bold;
+      text-decoration: underline;
+      text-decoration-thickness: 3px;
+      text-underline-offset: 3px;
+      text-decoration-color: $primary-color;
+    }
   }
   .navbar-toggler{
     outline: 0;

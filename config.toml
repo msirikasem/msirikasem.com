@@ -15,21 +15,25 @@ publishDir    = "docs"
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
-    url     = ""
-    weight  = 1
+    name          = "Home"
+    url           = ""
+    identifier    = "menu-home"
+    weight        = 1
   [[menu.nav]]
-    name    = "Work"
-    url     = "portfolio"
-    weight  = 2
+    name          = "Work"
+    url           = "portfolio"
+    identifier    = "menu-work"
+    weight        = 2
   [[menu.nav]]
-    name    = "About"
-    url     = "about"
-    weight  = 3
+    name          = "About"
+    url           = "about"
+    identifier    = "menu-about"
+    weight        = 3
   [[menu.nav]]
-    name    = "Contact"
-    url     = "contact"
-    weight  = 4
+    name          = "Contact"
+    url           = "contact"
+    identifier    = "menu-contact"
+    weight        = 4
 
 # Site Params
 [params]
