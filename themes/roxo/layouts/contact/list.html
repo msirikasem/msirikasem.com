@@ -8,15 +8,16 @@
 <section class="site-contact">
   <div class="container">
     <div class="row">
-      <div class="col-lg-5">
-        <h1 class="site-contact-title">
+      <div class="col-lg">
+        <h2 class="site-contact-title">
           {{ .Params.heading | safeHTML }}
-        </h1>
+        </h2>
       </div>
-      <div class="col-lg-6 ml-auto">
+    </div>
+    <div class="row">
+      <div class="col-lg ml-auto">
         <div class="site-contact-form">
-          <h4>{{ .Params.form_heading }}</h4>
-          <h5>{{ .Params.form_description | markdownify }}</h5>
+          <h4>{{ .Params.form_description | safeHTML }} &#128077;&#127995;</h4>
         </div>
       </div>
     </div>

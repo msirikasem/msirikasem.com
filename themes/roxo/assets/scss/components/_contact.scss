@@ -1,10 +1,14 @@
 .site-contact{
-  padding: 150px 0 100px;
-  background: $gray;
+  // padding: 150px 0 100px;
+  padding-top: 10rem;
+  padding-bottom: 4rem;
+
+  background: #F2F2F2;
   @include mobile{
     padding: 120px 0 100px;
   }
   &-title{
+    text-align: center;
     font-weight: 700;
     @include tablet{
       font-size: 40px;
@@ -15,11 +19,15 @@
   }
   &-form{
     margin-top: 20px;
+    text-align: center;
     h4{
+      padding-top: 3rem;
+      padding-bottom: 2rem;
       font-weight: 300;
-      text-transform: uppercase;
-      margin-bottom: 50px;
-      letter-spacing: 3px;
+      span{
+        text-decoration: underline;
+        // color: $primary-color;
+      }
       @include tablet{
         font-size: 20px;
       }

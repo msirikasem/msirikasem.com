@@ -104,8 +104,13 @@
     }
   }
   &-header{
-    padding: 170px 0 100px;
-    background: $gray;
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 4rem;
+    // background: $white;
+
+    // padding: 170px 0 100px;
+    // background: $gray;
     @include tablet{
       padding: 120px 0 80px;
     }
