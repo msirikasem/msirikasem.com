@@ -1,7 +1,10 @@
 
 .site-project{
-  padding: 120px 0;
+  // padding: 120px 0;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
   overflow: hidden;
+  background: #F2F2F2;
   &-item{
     position: relative;
     margin-bottom: 30px;
@@ -13,7 +16,7 @@
     }
     &-content{
       position: absolute;
-      background: $gray;
+      background: $white;
       width: 100%;
       padding: 45px 50px;
       bottom: 0;
