@@ -7,7 +7,7 @@ category: ["PRODUCT LABEL"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-The “Seamless Lizard Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
 
 The watch has the following features:
