@@ -8,8 +8,14 @@
 
 {{ partial "call-to-action.html" . }}
 
-<script>window.onload = function() {
+<script>
+$( document ).ready(function() {
   document.getElementById('menu-home').className = 'nav-link nav-link-active';
-};</script>
+});
+
+//window.onload = function() {
+//  document.getElementById('menu-home').className = 'nav-link nav-link-active';
+//};
+</script>
 
 {{ end }}
