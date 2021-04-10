@@ -1,12 +1,5 @@
+
 .site-about{
-  &-header{
-    padding-top: 80px;
-    background-color: $gray;
-    @include mobile{
-      padding-top: 60px;
-      text-align: center;
-    }
-  }
   &-wrapper{
     display: flex;
     align-items: center;
@@ -29,17 +22,60 @@
       letter-spacing: 1px;
     }
   }
-  &-description{
-    width: 60%;
-    padding-left: 50px;
-    @include desktop{
-      width: 100%;
-      padding: 0 38px;
+  &-header{
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 4rem;
+    &-content{
+      h1{
+        font-size: 55px;
+        span{
+          color: $primary-color;
+        }
+      }
     }
+  }
+
+  &-headshot{
+    img{
+      max-width:28rem;
+    }
+  }
+
+  &-description{
+    background: #F2F2F2;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     p{
       font-size: 25px;
       font-weight: 300;
       margin-bottom: 0;
     }
   }
+
+  &-expertise{
+    background: #F2F2F2;
+    padding-bottom: 4rem;
+    p{
+      font-size: 25px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }
+
+    &-list{
+      padding-inline-start: 0em;
+
+      li{
+        list-style: none;
+        font-size: 25px;
+        font-weight: 300;
+        color: $text-color-dark;
+        &:not(:last-child){
+          margin-bottom: 1rem;
+        }
+      }    
+    }
+
+  }
+
 }
