@@ -1,5 +1,6 @@
 
-# Save PNG as binary files
+# Save images as binary files
+*.jpg binary
 *.png binary
 *.svg binary
 
