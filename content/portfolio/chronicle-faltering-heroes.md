@@ -2,9 +2,16 @@
 title: "A Chronicle of Faltering Heroes"
 date: 2016
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/chronicle-faltering-heroes/chronicle-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/chronicle-faltering-heroes/chronicle-1.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-2.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-3.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-4.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-5.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-6.jpg"
+]
 ---
 
 Objectives

@@ -2,9 +2,14 @@
 title: "All Set"
 date: 2014
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/all-set/all-set-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/all-set/all-set-1.jpg",
+	"images/projects/all-set/all-set-2.jpg",
+	"images/projects/all-set/all-set-3.jpg",
+	"images/projects/all-set/all-set-4.jpg"
+]
 ---
 
 Objectives

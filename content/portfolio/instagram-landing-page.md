@@ -2,9 +2,12 @@
 title: "Instagram Landing Page"
 date: 2018
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/instagram-landing-page/instagram-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/instagram-landing-page/instagram-1.jpg",
+	"images/projects/instagram-landing-page/instagram-2.jpg"
+]
 ---
 
 Objectives

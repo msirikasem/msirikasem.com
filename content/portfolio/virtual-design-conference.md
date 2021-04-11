@@ -2,9 +2,13 @@
 title: "Virtual Design Conference"
 date: 2014
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/virtual-design-conference/virtual-conference-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/virtual-design-conference/virtual-conference-1.jpg",
+	"images/projects/virtual-design-conference/virtual-conference-2.jpg",
+	"images/projects/virtual-design-conference/virtual-conference-3.jpg"
+]
 ---
 
 Objectives

@@ -2,9 +2,12 @@
 title: "MyTime Homepage"
 date: 2017
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/mytime-homepage/mytime-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/mytime-homepage/mytime-1.jpg",
+	"images/projects/mytime-homepage/mytime-2.jpg"
+]
 ---
 
 Objectives

@@ -2,9 +2,12 @@
 title: "Franchise and Enterprise"
 date: 2018
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/franchise-and-enterprise/franchise-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/franchise-and-enterprise/franchise-1.jpg",
+	"images/projects/franchise-and-enterprise/franchise-2.jpg"
+]
 ---
 
 Objectives

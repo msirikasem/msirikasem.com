@@ -2,9 +2,15 @@
 title: "Fredericks"
 date: 2016
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/fredericks/fredericks-cover.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: [
+	"images/projects/fredericks/fredericks-1.jpg",
+	"images/projects/fredericks/fredericks-2.jpg",
+	"images/projects/fredericks/fredericks-3.jpg",
+	"images/projects/fredericks/fredericks-4.jpg",
+	"images/projects/fredericks/fredericks-5.jpg"
+]
 ---
 
 Objectives
