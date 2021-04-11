@@ -1,0 +1,23 @@
+---
+title: "Skillet"
+date: 2016
+type: portfolio
+image: "images/projects/project-thumb-four.jpg"
+category: ["PRODUCT LABEL"]
+project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+---
+
+Objectives
+Develop a user interface on the chosen topic using user research and user testing method to understand the target audience's needs. Then deliver a thoughtful interface design project
+
+Concept
+Skillet is a cooking app that helps user cook their food from the ingredient that they already have in the household. The app concept is to find the menu based on the input ingredient from the user’s profile data of materials such as meat, vegetable, spice, sauce, and seasoning. Then combine with the user’s equipment information such as stove, oven, microwave to find the best recipe that fits each user's needs. Also, the app educated users through tips and tricks loading screens and provided a community to encourage the user to cook.
+
+Completion
+2016
+
+Disciplines
+Visual Systems, User Interface, User Experience
+
+Type of project
+Mobile App, Book, Logo, Icons
