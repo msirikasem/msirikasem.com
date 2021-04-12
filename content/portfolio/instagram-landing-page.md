@@ -6,7 +6,8 @@ image: "images/projects/instagram-landing-page/instagram-cover.jpg"
 category: ["PRODUCT LABEL"]
 project_images: [
 	"images/projects/instagram-landing-page/instagram-1.jpg",
-	"images/projects/instagram-landing-page/instagram-2.jpg"
+	"images/projects/instagram-landing-page/instagram-2.jpg",
+	"images/projects/instagram-landing-page/instagram-3.jpg"
 ]
 ---
 

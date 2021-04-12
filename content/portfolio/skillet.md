@@ -9,7 +9,8 @@ project_images: [
 	"images/projects/skillet/skillet-2.jpg",
 	"images/projects/skillet/skillet-3.jpg",
 	"images/projects/skillet/skillet-4.jpg",
-	"images/projects/skillet/skillet-5.jpg"
+	"images/projects/skillet/skillet-5.jpg",
+	"images/projects/skillet/skillet-6.jpg"
 ]
 ---
 

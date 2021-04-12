@@ -9,7 +9,8 @@ project_images: [
 	"images/projects/fredericks/fredericks-2.jpg",
 	"images/projects/fredericks/fredericks-3.jpg",
 	"images/projects/fredericks/fredericks-4.jpg",
-	"images/projects/fredericks/fredericks-5.jpg"
+	"images/projects/fredericks/fredericks-5.jpg",
+	"images/projects/fredericks/fredericks-6.jpg"
 ]
 ---
 

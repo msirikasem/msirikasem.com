@@ -6,7 +6,8 @@ image: "images/projects/mytime-homepage/mytime-cover.jpg"
 category: ["PRODUCT LABEL"]
 project_images: [
 	"images/projects/mytime-homepage/mytime-1.jpg",
-	"images/projects/mytime-homepage/mytime-2.jpg"
+	"images/projects/mytime-homepage/mytime-2.jpg",
+	"images/projects/mytime-homepage/mytime-3.jpg"
 ]
 ---
 

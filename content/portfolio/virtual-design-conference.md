@@ -7,7 +7,8 @@ category: ["PRODUCT LABEL"]
 project_images: [
 	"images/projects/virtual-design-conference/virtual-conference-1.jpg",
 	"images/projects/virtual-design-conference/virtual-conference-2.jpg",
-	"images/projects/virtual-design-conference/virtual-conference-3.jpg"
+	"images/projects/virtual-design-conference/virtual-conference-3.jpg",
+	"images/projects/virtual-design-conference/virtual-conference-4.jpg"
 ]
 ---
 

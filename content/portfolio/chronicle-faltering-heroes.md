@@ -10,7 +10,8 @@ project_images: [
 	"images/projects/chronicle-faltering-heroes/chronicle-3.jpg",
 	"images/projects/chronicle-faltering-heroes/chronicle-4.jpg",
 	"images/projects/chronicle-faltering-heroes/chronicle-5.jpg",
-	"images/projects/chronicle-faltering-heroes/chronicle-6.jpg"
+	"images/projects/chronicle-faltering-heroes/chronicle-6.jpg",
+	"images/projects/chronicle-faltering-heroes/chronicle-7.jpg"
 ]
 ---
 

@@ -6,7 +6,8 @@ image: "images/projects/franchise-and-enterprise/franchise-cover.jpg"
 category: ["PRODUCT LABEL"]
 project_images: [
 	"images/projects/franchise-and-enterprise/franchise-1.jpg",
-	"images/projects/franchise-and-enterprise/franchise-2.jpg"
+	"images/projects/franchise-and-enterprise/franchise-2.jpg",
+	"images/projects/franchise-and-enterprise/franchise-3.jpg"
 ]
 ---
 
