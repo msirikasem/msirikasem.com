@@ -3,19 +3,19 @@
 <section class="site-project-single-section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-12 mx-auto">
         <div class="site-project-single">
           <h1>
             {{ .Title }}
           </h1>
           <div class="site-project-single-description">
-            {{ .Content }}
+            {{ .Content | safeHTML }}
           </div>
-          <div class="site-project-single-image">
+          <!--div class="site-project-single-image">
             {{ range .Params.project_images }}
             <img src="{{ . | absURL }}" alt="project image">
             {{ end }}
-          </div>
+          </div-->
           {{ if .NextInSection }}
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
@@ -33,7 +33,5 @@
     </div>
   </div>
 </section>
-
-{{ partial "call-to-action.html" . }}
 
 {{ end }}

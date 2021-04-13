@@ -1,15 +1,24 @@
 
 # When ready for live, with root domain:
-baseURL       = "https://msirikasem.com/"
+#baseURL       = "https://msirikasem.com/"
 
 # Dev, github URL:
-#baseURL       = "https://msirikasem.github.io/msirikasem.com/"
+baseURL       = "https://msirikasem.github.io/msirikasem.com/"
 
 languageCode  = "en-us"
 title         = "Melissa Sirikasem | Professional Design Services"
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
+
+# Make sure URLs are fully specified
+canonifyurls = true
+
+# Enable html in portfolio entries
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Site Menus
 [menu]
