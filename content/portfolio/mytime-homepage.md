@@ -29,5 +29,3 @@ A Responsive Website
 
 <img src="/images/projects/mytime-homepage/mytime-2.jpg" loading="lazy" alt="mytime"><br>
 
-<img src="/images/projects/mytime-homepage/mytime-3.jpg" loading="lazy" alt="mytime"><br>
-

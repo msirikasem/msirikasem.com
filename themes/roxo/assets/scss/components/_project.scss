@@ -227,7 +227,7 @@
         font-size: 24px;
         font-weight: 300;
         color: $text-color-dark;
-        display: flex;
+        // display: flex;
         margin-left: auto;
         justify-content: flex-end;
         @include mobile{
@@ -273,3 +273,11 @@
     }
   }
 }
+
+.siteproject-link-previous{
+  display: flex;
+}
+
+.siteproject-link-next{
+}
+
