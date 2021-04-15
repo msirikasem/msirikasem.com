@@ -3,7 +3,7 @@ title: "Instagram Landing Page"
 date: 2018
 type: portfolio
 image: "images/projects/instagram-landing-page/instagram-cover.jpg"
-category: ["Responsive website", "Intake Form"]
+category: ["PRODUCT LABEL"]
 ---
 
 <b>Objectives</b><br>

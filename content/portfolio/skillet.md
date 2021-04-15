@@ -3,7 +3,7 @@ title: "Skillet"
 date: 2016
 type: portfolio
 image: "images/projects/skillet/skillet-cover.jpg"
-category: ["Mobile App", "Book", "Logo", "Icons"]
+category: ["PRODUCT LABEL"]
 ---
 
 <b>Objectives</b><br>

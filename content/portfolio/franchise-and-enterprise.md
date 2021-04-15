@@ -3,7 +3,7 @@ title: "Franchise and Enterprise"
 date: 2018
 type: portfolio
 image: "images/projects/franchise-and-enterprise/franchise-cover.jpg"
-category: ["Web Design", "Illustrations", "Icons"]
+category: ["PRODUCT LABEL"]
 ---
 
 <b>Objectives</b><br>
