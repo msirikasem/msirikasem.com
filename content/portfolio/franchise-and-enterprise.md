@@ -3,12 +3,7 @@ title: "Franchise and Enterprise"
 date: 2018
 type: portfolio
 image: "images/projects/franchise-and-enterprise/franchise-cover.jpg"
-category: ["PRODUCT LABEL"]
-project_images: [
-	"images/projects/franchise-and-enterprise/franchise-1.jpg",
-	"images/projects/franchise-and-enterprise/franchise-2.jpg",
-	"images/projects/franchise-and-enterprise/franchise-3.jpg"
-]
+category: ["Web Design", "Illustrations", "Icons"]
 ---
 
 <b>Objectives</b><br>
@@ -28,10 +23,9 @@ Interface Design, Illustrations, Icons Design, Responsive Web Design
 <b>Type of project</b><br>
 Web Design, Illustrations, Icons
 
-</div>
+<img src="/images/projects/franchise-and-enterprise/franchise-cover.jpg" loading="lazy" alt="franchise and enterprise"><br>
 
-![](/images/projects/franchise-and-enterprise/franchise-1.jpg)<br><br>
-![](/images/projects/franchise-and-enterprise/franchise-2.jpg)<br><br>
-![](/images/projects/franchise-and-enterprise/franchise-3.jpg)<br><br>
+<img src="/images/projects/franchise-and-enterprise/franchise-1.jpg" loading="lazy" alt="franchise and enterprise"><br>
 
+<img src="/images/projects/franchise-and-enterprise/franchise-2.jpg" loading="lazy" alt="franchise and enterprise"><br>
 
