@@ -15,10 +15,11 @@
       }
     }
     &-content{
-      position: absolute;
+      position: relative;
       background: $white;
       width: 100%;
       padding: 45px 50px;
+      height: 13rem;
       bottom: 0;
       transition: all .3s $site-ease;
       @include tablet{
