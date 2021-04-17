@@ -43,6 +43,11 @@
           }
         }
       }
+      a.div-clickable{
+        &:hover{
+          text-decoration: none;
+        }
+      }
       a.read-more{
         position: absolute;
         bottom: 40px;
