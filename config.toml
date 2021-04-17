@@ -84,11 +84,14 @@ canonifyurls = true
     [params.footer.sitemap]
       title   = "Sitemap"
       [[params.footer.sitemap.link]]
+        name = "Home"
+        url  = "#"
+      [[params.footer.sitemap.link]]
+        name = "Work"
+        url  = "portfolio"
+      [[params.footer.sitemap.link]]
         name = "About"
         url  = "about"
-      [[params.footer.sitemap.link]]
-        name = "Portfolio"
-        url  = "portfolio"
       [[params.footer.sitemap.link]]
         name = "Contact"
         url  = "contact"
