@@ -4,3 +4,6 @@
 *.png binary
 *.svg binary
 
+# Save resume as binary file
+*.pdf binary
+

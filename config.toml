@@ -75,7 +75,7 @@ canonifyurls = true
     background_image    = ""
     title               = ""
     primary_button        = "résumé"
-    primary_button_url    = "resume"
+    primary_button_url    = "resume.pdf"
     secondary_button      = "say hello"
     secondary_button_url  = "contact"
 
