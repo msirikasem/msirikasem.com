@@ -3,7 +3,7 @@ title: "All Set"
 date: 2014
 type: portfolio
 image: "images/projects/all-set/all-set-cover.jpg"
-category: ["Logo", "App", "Posters", "Products", "Info Graphics", "Interactive Screens"]
+category: ["UI/UX"]
 ---
 
 <b>Objectives</b><br>

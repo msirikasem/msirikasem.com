@@ -3,7 +3,7 @@ title: "Mistakes Matter"
 date: 2016
 type: portfolio
 image: "images/projects/mistakes-matter/mistakes-cover.jpg"
-category: ["PRODUCT LABEL"]
+category: ["Brand Identity"]
 ---
 
 <b>Objectives</b><br>

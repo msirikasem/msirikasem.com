@@ -3,7 +3,7 @@ title: "Fredericks"
 date: 2016
 type: portfolio
 image: "images/projects/fredericks/fredericks-cover.jpg"
-category: ["PRODUCT LABEL"]
+category: ["Brand Identity"]
 ---
 
 <b>Objectives</b><br>

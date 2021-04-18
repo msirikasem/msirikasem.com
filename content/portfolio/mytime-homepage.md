@@ -3,7 +3,7 @@ title: "MyTime Homepage"
 date: 2017
 type: portfolio
 image: "images/projects/mytime-homepage/mytime-cover.jpg"
-category: ["PRODUCT LABEL"]
+category: ["UI/UX"]
 ---
 
 <b>Objectives</b><br>

@@ -3,7 +3,7 @@ title: "A Chronicle of Faltering Heroes"
 date: 2016
 type: portfolio
 image: "images/projects/chronicle-faltering-heroes/chronicle-cover.jpg"
-category: ["PRODUCT LABEL"]
+category: ["Brand Identity"]
 ---
 
 <b>Objectives</b><br>
