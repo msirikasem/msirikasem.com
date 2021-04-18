@@ -2,7 +2,7 @@
 title: "Skillet"
 date: 2016
 type: portfolio
-image: "images/projects/skillet/skillet-cover.jpg"
+image: "images/projects/skillet/skillet-cover-thumb.jpg"
 category: ["PRODUCT LABEL"]
 ---
 
