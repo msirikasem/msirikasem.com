@@ -21,8 +21,6 @@ Visual Systems, User Interface, Installation Concept, Branding, Identity, Art Di
 <b>Type of project</b><br>
 Logo, App, Posters, Products, Info Graphics, Interactive Screens
 
-<img src="/images/projects/all-set/all-set-cover.jpg" loading="lazy" alt="all set"><br>
-
 <img src="/images/projects/all-set/all-set-1.jpg" loading="lazy" alt="all set"><br>
 
 <img src="/images/projects/all-set/all-set-2.jpg" loading="lazy" alt="all set"><br>
