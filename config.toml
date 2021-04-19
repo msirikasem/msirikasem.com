@@ -1,10 +1,5 @@
 
-# When ready for live, with root domain:
 baseURL       = "https://msirikasem.com/"
-
-# Dev, github URL:
-#baseURL       = "https://msirikasem.github.io/msirikasem.com/"
-
 languageCode  = "en-us"
 title         = "Melissa Sirikasem | Professional Design Services"
 theme         = "roxo"
