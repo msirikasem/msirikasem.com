@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Melissa Sirikasem | Professional Design Services</title>
-    <link>https://msirikasem.github.io/msirikasem.com/tags/</link>
+    <link>https://msirikasem.com/tags/</link>
     <description>Recent content in Tags on Melissa Sirikasem | Professional Design Services</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://msirikasem.github.io/msirikasem.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://msirikasem.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
