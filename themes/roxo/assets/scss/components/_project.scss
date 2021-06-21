@@ -44,8 +44,13 @@
         }
       }
       a.div-clickable{
-        &:hover{
-          text-decoration: none;
+        :hover > & span {
+          text-decoration: underline;
+          color: $primary-color;
+        }
+        :hover > & h3 {
+          text-decoration: underline;
+          color: black;
         }
       }
       a.read-more{
