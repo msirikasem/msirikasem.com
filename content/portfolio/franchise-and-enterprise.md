@@ -12,7 +12,7 @@ This project is designed for MyTime company. MyTime product is an all-in-one sol
 <b>Concept</b><br>
 Using dark blue, purple and gray as the main color to gives a serious tone to the pages. The illustrations are made with the similar color tone and gradient to create depth and delicate feeling to this landing page.
 
-Click to see [Franchise](https://www.mytime.com/m-franchises) and [Enterprise](https://www.mytime.com/m-enterprise) pages in action
+Click to see <a href="https://www.mytime.com/m-franchises" target="_blank" rel="noopener noreferrer">Franchise</a> and <a href="https://www.mytime.com/m-enterprise" target="_blank" rel="noopener noreferrer">Enterprise</a> pages in action
 
 <b>Completion</b><br>
 2018
