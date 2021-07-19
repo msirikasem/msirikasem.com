@@ -11,13 +11,14 @@ expertise_title: "Expertise"
 
 expertise_sectors: [
 	"Product Design",
+	"Information Architecture",
+	"User Interface Design",
 	"Project Management",
 	"User Research",
-	"Information Architecture",
 	"Competitive Analysis",
-	"User Interface Design",
 	"Prototyping & Wireframing",
 	"Usability Testing",
 	"Product Strategy"
 ]
+
 ---
