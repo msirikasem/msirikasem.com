@@ -73,7 +73,7 @@ canonifyurls = true
     primary_button        = "résumé"
     primary_button_url    = "resume.pdf"
     secondary_button      = "say hello"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "mailto:msirikasem@gmail.com"
 
   [params.footer]
     # Footer Sitemap
