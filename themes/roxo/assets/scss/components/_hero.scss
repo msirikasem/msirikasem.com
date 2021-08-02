@@ -1,12 +1,8 @@
 .site-hero{
-  /* @include desktop{
-    height: auto;
-    padding: 200px 0;
-  }
   @include mobile{
-    padding: 150px 0;
-  } */ 
-
+    padding-top: 120px;
+    padding-bottom: 156px;
+  }
   position: relative;
   padding-top: 8rem;
   padding-bottom: 15rem;
@@ -15,14 +11,9 @@
   justify-content: center;
   &-content{
     h6{
-      /* @include desktop-lg{
-        font-size: 50px;
-        margin-bottom: 50px;
-      }
       @include mobile{
-        font-size: 40px;
-      } */
-
+        font-size: 1rem;
+      }
       padding-top:1rem;
       font-family: $primary-font;
       font-style: normal;
@@ -34,6 +25,15 @@
     }
 
     h1{
+      @include mobile{
+        font-size: 1.6rem;
+        line-height: 2.2rem;
+        padding-left: 0px;
+        padding-right: 0px;
+      }
+      padding-left: 60px;
+      padding-right: 60px;
+
       font-style: normal;
       font-weight: bold;
       font-size: 3rem;
