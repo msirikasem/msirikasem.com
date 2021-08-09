@@ -1,4 +1,10 @@
 .site-navigation{
+  @include mobile{
+    margin: 2.5%;
+    width: 95%;
+    padding: 12px 0;
+  }
+
   padding: 20px 0;
   background: $white;
   position: fixed;
@@ -8,32 +14,18 @@
   transition: all 0.3s cubic-bezier(0.55, 0.085, 0.68, 0.53);
 
   box-shadow:
-  0 1px 1px rgba(0, 0, 0, 0.034),
-  0 3px 3px rgba(0, 0, 0, 0.048),
-  0 5px 5px rgba(0, 0, 0, 0.06)
-  ;
-
-  // box-shadow: 0px 3px 3px #E0E0E0;
-
-  /*
-  @include desktop{
-    background: $white;
-    margin: 10px;
-    border-radius: 5px;
-    top: 0;
-    width: calc(100% - 20px);
-    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
-  }
-  @include mobile{
-    padding: 15px;
-  }
-  */
+    0 1px 1px rgba(0, 0, 0, 0.034),
+    0 3px 3px rgba(0, 0, 0, 0.048),
+    0 5px 5px rgba(0, 0, 0, 0.06);
 
   a{
     color: $secondary-color;
   }
 
   .navbar-brand{
+    @include mobile{
+      padding-left: 23px;
+    }
     padding: 0;
     margin: 0;
     img{
@@ -41,8 +33,17 @@
     }
     .mfirst{
       font-weight: 600;
+      @include mobile{
+        visibility: hidden;
+      }
+    }
+    .mlast{
+      @include mobile{
+        visibility: hidden;
+      }
     }
   }
+
   .nav-item{
     @include desktop{
       text-align: center;
@@ -66,6 +67,10 @@
     }
   }
   .navbar-toggler{
+    @include mobile{
+      padding-right: 23px;
+      line-height: 5px;
+    }
     outline: 0;
     padding: 0;
     .icon-bar {
@@ -91,10 +96,9 @@
     }
   }
   &.nav-bg{
-    padding: 12px 0;
-    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
-    @include mobile{
-      padding: 15px;
-    }
+    box-shadow:
+      0 1px 1px rgba(0, 0, 0, 0.034),
+      0 3px 3px rgba(0, 0, 0, 0.048),
+      0 5px 5px rgba(0, 0, 0, 0.06);
   }
 }
