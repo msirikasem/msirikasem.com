@@ -6,10 +6,11 @@
   display: flex;
   justify-content: center;
 
-  @include desktop{
-    // padding-left: 38rem;
-    // padding-right: 38rem;
+  @include mobile{
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
   }
+
   &-title{
     font-family: $primary-font;
     font-style: normal;
@@ -20,30 +21,15 @@
     letter-spacing: 0.02em;
     color: #000000;
 
-    /*
-    font-size: 70px;
-    font-weight: 700;
-    letter-spacing: 10px;
-    margin-bottom: 60px;
-    */
-
     a{
       color: $secondary-color;
       text-decoration: underline;
     }
 
-    /*
-    @include desktop{
-      letter-spacing: 5px;
-    }
-    @include desktop-lg{
-      font-size: 50px;
-      margin-bottom: 40px;
-    }
     @include mobile{
-      font-size: 40px;
+      font-size: 1.5rem;
+      line-height: 2.5rem;
       letter-spacing: 1;
     }
-    */
   }
 }
