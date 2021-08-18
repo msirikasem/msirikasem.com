@@ -47,12 +47,13 @@ We did user testing with a group of high performance sellers throughout developm
 <p><img src="/images/projects/campaign-list/clv-cover.jpg" loading="lazy" alt="campaign list view final product"></p>
 <br><br>
 
-<!--h3>Original Product</h3><br>
+<h3>Original Product</h3><br>
 <div style="text-align:center;">
 	<i>Before implementing changes, customers needed to switch back and forth between views to see different information</i><br><br>
-	<p><img src="/images/projects/campaign-list/original-dash.gif" loading="lazy" alt="original dashboard alt before project"></p>
+	<!--p><img src="/images/projects/campaign-list/original-dash.gif" loading="lazy" alt="original dashboard alt before project"></p-->
+	<p><img src="/images/projects/campaign-list/before-changes.jpg" loading="lazy" alt="original dashboard alt before project"></p>
 </div>
-<br-->
+<br>
 
 <!--h3>Iterations</h3>
 <p><img src="/images/projects/campaign-list/hand-sketches.jpg" loading="lazy" alt="hand sketches"></p>
@@ -76,19 +77,22 @@ We did user testing with a group of high performance sellers throughout developm
 </div>
 <br>
 
-<!--h3>Final Product</h3><br>
+<h3>Final Product</h3><br>
 <div style="text-align:center;">
 	<i>Sellers are now able to customize their views and order columns</i><br><br>
-	<p><img id="customizable_view" src="/images/projects/campaign-list/customizable-view.gif" loading="lazy" alt="customizing fields in campaign list view"></p>
+	<!--p><img id="customizable_view" src="/images/projects/campaign-list/customizable-view.gif" loading="lazy" alt="customizing fields in campaign list view"></p-->
+	<p><img id="customizable_view" src="/images/projects/campaign-list/customize-view.jpg" loading="lazy" alt="customizing fields in campaign list view"></p>
 </div><br><br>
 
 <div style="text-align:center;">
 	<i>Customers can do inline editing of campaign names</i><br><br>
-	<p><img id="bulk_edit_name" src="/images/projects/campaign-list/name-editing.gif" loading="lazy" alt="editing campaign names in campaign list view"></p>
+	<!--p><img id="bulk_edit_name" src="/images/projects/campaign-list/name-editing.gif" loading="lazy" alt="editing campaign names in campaign list view"></p-->
+	<p><img id="bulk_edit_name" src="/images/projects/campaign-list/inline-editing.jpg" loading="lazy" alt="editing campaign names in campaign list view"></p>
 </div><br><br>
 
 <div style="text-align:center;">
 	<i>Sellers can bulk edit campaign descriptions without navigating into each campaign</i><br><br>
-	<p><img src="/images/projects/campaign-list/desc-editing.gif" loading="lazy" alt="editing campaign descriptions in campaign list view"></p>
+	<!--p><img src="/images/projects/campaign-list/desc-editing.gif" loading="lazy" alt="editing campaign descriptions in campaign list view"></p-->
+	<p><img src="/images/projects/campaign-list/edit-desc.jpg" loading="lazy" alt="editing campaign descriptions in campaign list view"></p>
 </div>
-<br><br-->
+<br><br>
