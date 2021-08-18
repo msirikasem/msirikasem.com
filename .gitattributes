@@ -1,5 +1,6 @@
 
 # Save images as binary files
+*.gif binary
 *.jpg binary
 *.png binary
 *.svg binary
