@@ -13,32 +13,32 @@ category: ["UI/UX"]
 	<div class="col-8">
 		<table style="border-spacing:1rem;">
 			<tr>
-				<th style="vertical-align:text-top;"><b>Role</b></th>
+				<th style="vertical-align:text-top;">Role</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Product Designer</th>
 			</tr>
 			<tr>
-				<th style="vertical-align:text-top;"><b>Teams</b></th>
+				<th style="vertical-align:text-top;">Teams</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Product design team, Product manager, Engineering team, Seller support team</th>
 			</tr>
 			<tr>
-				<th style="vertical-align:text-top;"><b>Client</b></th>
+				<th style="vertical-align:text-top;">Client</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Scalable Inc</th>
 			</tr>
 			<tr>
-				<th style="vertical-align:text-top;"><b>Duration</b></th>
+				<th style="vertical-align:text-top;">Duration</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Dec 2019 - Feb 2020</th>
 			</tr>
 			<tr>
-				<th style="vertical-align:text-top;"><b>Tools</b></th>
+				<th style="vertical-align:text-top;">Tools</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Sketch, Invision, Fullstory</th>
 			</tr>
 			<tr>
-				<th style="vertical-align:text-top;"><b>Responsibilities</b></th>
+				<th style="vertical-align:text-top;">Responsibilities</th>
 				<th>&nbsp;&nbsp;</th>
 				<th style="vertical-align:text-top;font-weight:normal;">Information architecture, Research, Task flow, UI, Prototype, User testing plan, User research report, Quality assurance</th>
 			</tr>
