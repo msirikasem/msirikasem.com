@@ -2,7 +2,7 @@
 title: "Campaign List View"
 date: 2020
 type: portfolio
-image: "/images/projects/campaign-list/clv-thumb.jpg"
+image: "/images/projects/campaign-list/clv-cover.jpg"
 category: ["UI/UX"]
 ---
 
@@ -40,7 +40,7 @@ category: ["UI/UX"]
 			<tr>
 				<th style="vertical-align:text-top;">Responsibilities</th>
 				<th>&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Information architecture, Research, Task flow, UI, Prototype, User testing plan, User research report, Quality assurance</th>
+				<th style="vertical-align:text-top;font-weight:normal;">Interaction design, Information architecture, Research, User flow, UI design, Prototype, User testing, Quality assurance</th>
 			</tr>
 		</table>
 	</div>
@@ -113,7 +113,7 @@ category: ["UI/UX"]
 
 <div style="text-align:center;">
 	<p><img src="/images/projects/campaign-list/hand-sketches.jpg" loading="lazy" alt="hand sketches"></p>
-	<i style="font-weight:500;">&#9757;&#127995; I sketched information architecture, task flow, and wireframe based on the information from all teams.</i><br><br>
+	<i style="font-weight:500;">&#9757;&#127995; I sketched information architecture, user flow, and wireframe based on the information from all teams.</i><br><br>
 </div>
 <br>
 
@@ -159,6 +159,7 @@ category: ["UI/UX"]
 
 <div style="text-align:center;">
 	<p><img src="/images/projects/campaign-list/eng-hand-off.jpg" loading="lazy" alt="hand off to engineering team for implementation"></p>
+	<i style="font-weight:500;">&#9757;&#127995; Example of guidelines for design handoff to the engineering team</i><br><br>
 </div><br><br>
 
 
@@ -166,7 +167,8 @@ category: ["UI/UX"]
 <h3>Results</h3>
 <div class="row">
 	<div class="col-8">
-		<p>We did user testing with a group of high-performance sellers throughout development for continuous feedback to adjust the product according to merchant needs. This enabled early validation of bulk edits & customizable views as high-value initiatives. <b>Out of 45 users surveyed, 39% were satisfied, giving it a rating of 4+ out of 5. The average rating for the seller dashboard was 2.9/5, however the features added in this case study outperformed the average. Customizable dashboard feature was rated at 3.1/5, and the bulk edit feature was rated at 3.5/5.</b></p>
+		<p>We did user testing with a group of high-performance sellers throughout development for continuous feedback to adjust the product according to merchant needs. This enabled early validation of bulk edits & customizable views as high-value initiatives.</p>
+		<p>We followed up with a user survey after launching these features. <b>Out of 45 users surveyed, 39% were satisfied, giving it a rating of 4+ out of 5. The average rating for the seller dashboard was 2.9/5, however the features added in this case study outperformed the average. The customizable dashboard feature was rated at 3.1/5, and the bulk edit feature was rated at 3.5/5.</b></p>
 	</div>
 </div>
 
