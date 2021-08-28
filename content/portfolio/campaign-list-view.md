@@ -9,40 +9,42 @@ category: ["UI/UX"]
 
 
 <h3>Project Summary</h3>
-<div class="row">
-	<div class="col-8">
-		<table style="border-spacing:1rem;">
-			<tr>
-				<th style="vertical-align:text-top;">Role</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Product Designer</th>
-			</tr>
-			<tr>
-				<th style="vertical-align:text-top;">Teams</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Product design team, Product manager, Engineering team, Seller support team</th>
-			</tr>
-			<tr>
-				<th style="vertical-align:text-top;">Client</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Scalable Inc</th>
-			</tr>
-			<tr>
-				<th style="vertical-align:text-top;">Duration</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Dec 2019 - Feb 2020</th>
-			</tr>
-			<tr>
-				<th style="vertical-align:text-top;">Tools</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Sketch, Invision, Fullstory</th>
-			</tr>
-			<tr>
-				<th style="vertical-align:text-top;">Responsibilities</th>
-				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-				<th style="vertical-align:text-top;font-weight:normal;">Interaction design, Information architecture, Research, User flow, UI design, Prototype, User testing, Quality assurance</th>
-			</tr>
-		</table>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<table style="border-spacing:1rem;">
+				<tr>
+					<th style="vertical-align:text-top;">Role</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Product Designer</th>
+				</tr>
+				<tr>
+					<th style="vertical-align:text-top;">Teams</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Product design team, Product manager, Engineering team, Seller support team</th>
+				</tr>
+				<tr>
+					<th style="vertical-align:text-top;">Client</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Scalable Inc</th>
+				</tr>
+				<tr>
+					<th style="vertical-align:text-top;">Duration</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Dec 2019 - Feb 2020</th>
+				</tr>
+				<tr>
+					<th style="vertical-align:text-top;">Tools</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Sketch, Invision, Fullstory</th>
+				</tr>
+				<tr>
+					<th style="vertical-align:text-top;">Responsibilities</th>
+					<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+					<th style="vertical-align:text-top;font-weight:normal;">Interaction design, Information architecture, Research, User flow, UI design, Prototype, User testing, Quality assurance</th>
+				</tr>
+			</table>
+		</div>
 	</div>
 </div>
 <br><br><br>
@@ -53,24 +55,27 @@ category: ["UI/UX"]
 
 
 <h3>About Chip</h3>
-<div class="row">
-	<div class="col-8">
-	<p>
-		<a href="https://www.chipchip.com/" target="_blank" rel="noopener noreferrer">Chip</a> is an e-commerce platform specializing in print-on-demand products that offer packing, shipping, and customer services for entrepreneurs. Merchants can create a store where they can market and sell customized products with their designs.
-	</p><br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>
+				<a href="https://www.chipchip.com/" target="_blank" rel="noopener noreferrer">Chip</a> is an e-commerce platform specializing in print-on-demand products that offer packing, shipping, and customer services for entrepreneurs. Merchants can create a store where they can market and sell customized products with their designs.
+			</p><br>
+		</div>
 	</div>
 </div>
 
 
-
 <h3>Problems</h3>
-<div class="row">
-	<div class="col-8">
-		Improve seller satisfaction by enabling them to easily bulk-edit products in their stores. Their feedback highlighted several key workflow issues:<br>
-		&emsp;1. Difficulty updating campaign information, such as product descriptions or Facebook Pixel IDs<br>
-		&emsp;2. Information visible on the main seller dashboard is scattered, making it difficult to find or manage<br>
-		&emsp;3. No way for merchant team members to customize views according to their role responsibilities, such as marketing or graphic design. These issues were cited by the seller support team as reasons sellers move to other platforms.<br>
-		<br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			Improve seller satisfaction by enabling them to easily bulk-edit products in their stores. Their feedback highlighted several key workflow issues:<br>
+			&emsp;1. Difficulty updating campaign information, such as product descriptions or Facebook Pixel IDs<br>
+			&emsp;2. Information visible on the main seller dashboard is scattered, making it difficult to find or manage<br>
+			&emsp;3. No way for merchant team members to customize views according to their role responsibilities, such as marketing or graphic design. These issues were cited by the seller support team as reasons sellers move to other platforms.<br>
+			<br>
+		</div>
 	</div>
 </div>
 
@@ -83,30 +88,35 @@ category: ["UI/UX"]
 
 
 <h3>Goals</h3>
-<div class="row">
-	<div class="col-8">
-		<p>
-		&emsp;1. Improve overall merchant satisfaction on Chip platform.<br>
-		&emsp;2. Allow users to <a href="./#customizable_view">customize their campaign list view</a> based on the information they need for their role.<br>
-		&emsp;3. Enable merchants to complete tasks like updating campaigns faster through <a href="./#bulk_edit_name">bulk editing.</a></p>
-		<br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>
+			&emsp;1. Improve overall merchant satisfaction on Chip platform.<br>
+			&emsp;2. Allow users to <a href="./#customizable_view">customize their campaign list view</a> based on the information they need for their role.<br>
+			&emsp;3. Enable merchants to complete tasks like updating campaigns faster through <a href="./#bulk_edit_name">bulk editing.</a></p>
+			<br>
+		</div>
 	</div>
 </div>
 
 
-
 <h3>Process</h3>
-<div class="row">
-	<div class="col-8">
-		Kick-off &rarr; Iterations &rarr; Usability testing &rarr; Implementation &rarr; Launch
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			Kick-off &rarr; Iterations &rarr; Usability testing &rarr; Implementation &rarr; Launch
+		</div>
 	</div>
 </div>
 <br><br>
 
 <h5>Kick-off</h5>
-<div class="row">
-	<div class="col-8">
-		After each team received a project brief from the product manager, we researched and came back with findings. The Seller Support team gave us insights from interviewing merchants. The Engineering team reviewed system constraints and limitations to be aware of. I conducted competitive analysis to evaluate how other platforms solved similar problems.
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			After each team received a project brief from the product manager, we researched and came back with findings. The Seller Support team gave us insights from interviewing merchants. The Engineering team reviewed system constraints and limitations to be aware of. I conducted competitive analysis to evaluate how other platforms solved similar problems.
+		</div>
 	</div>
 </div>
 <br><br>
@@ -118,9 +128,11 @@ category: ["UI/UX"]
 <br>
 
 <h5>Iterations</h5>
-<div class="row">
-	<div class="col-8">
-		<p>We needed to display more information without overwhelming our users. After talking to developers, we decided to break the original grid and expand the table. I researched how our merchants interact with the page using <a href="https://www.fullstory.com/" target="_blank" rel="noopener noreferrer">Fullstory</a>, then decided to consolidate other buttons into a dropdown and re-order by the popularity of use. I created high fidelity prototypes during this phase and explored UI solutions.</p>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>We needed to display more information without overwhelming our users. After talking to developers, we decided to break the original grid and expand the table. I researched how our merchants interact with the page using <a href="https://www.fullstory.com/" target="_blank" rel="noopener noreferrer">Fullstory</a>, then decided to consolidate other buttons into a dropdown and re-order by the popularity of use. I created high fidelity prototypes during this phase and explored UI solutions.</p>
+		</div>
 	</div>
 </div>
 
@@ -130,9 +142,11 @@ category: ["UI/UX"]
 </div><br><br>
 
 <h5>Usability testing</h5>
-<div class="row">
-	<div class="col-8">
-		<p>To ensure that our solution for the assumptions we made were correct, I partnered with the seller support team to conduct usability testing with high-performance merchants. This let us identify problems and correct them before we handed off the design to developers.</p>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>To ensure that our solution for the assumptions we made were correct, I partnered with the seller support team to conduct usability testing with high-performance merchants. This let us identify problems and correct them before we handed off the design to developers.</p>
+		</div>
 	</div>
 </div>
 
@@ -151,9 +165,11 @@ category: ["UI/UX"]
 
 
 <h5>Implementation</h5>
-<div class="row">
-	<div class="col-8">
-		<p>I created the guidelines for front-end engineers to follow. I also worked with quality assurance engineers to ensure all the interactions and UI were correct and working as expected before launch.</p>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>I created the guidelines for front-end engineers to follow. I also worked with quality assurance engineers to ensure all the interactions and UI were correct and working as expected before launch.</p>
+		</div>
 	</div>
 </div>
 
@@ -165,10 +181,12 @@ category: ["UI/UX"]
 
 
 <h3>Results</h3>
-<div class="row">
-	<div class="col-8">
-		<p>We did user testing with a group of high-performance sellers throughout development for continuous feedback to adjust the product according to merchant needs. This enabled early validation of bulk edits & customizable views as high-value initiatives.</p>
-		<p>We followed up with a user survey after launching these features. <b>Out of 45 users surveyed, 39% were satisfied, giving it a rating of 4+ out of 5. The average rating for the seller dashboard was 2.9/5, however the features added in this case study outperformed the average. The customizable dashboard feature was rated at 3.1/5, and the bulk edit feature was rated at 3.5/5.</b></p>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>We did user testing with a group of high-performance sellers throughout development for continuous feedback to adjust the product according to merchant needs. This enabled early validation of bulk edits & customizable views as high-value initiatives.</p>
+			<p>We followed up with a user survey after launching these features. <b>Out of 45 users surveyed, 39% were satisfied, giving it a rating of 4+ out of 5. The average rating for the seller dashboard was 2.9/5, however the features added in this case study outperformed the average. The customizable dashboard feature was rated at 3.1/5, and the bulk edit feature was rated at 3.5/5.</b></p>
+		</div>
 	</div>
 </div>
 
