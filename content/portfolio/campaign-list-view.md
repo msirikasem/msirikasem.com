@@ -3,7 +3,7 @@ title: "Campaign List View"
 date: 2020
 type: portfolio
 image: "/images/projects/campaign-list/clv-cover-2.jpg"
-category: ["UI/UX"]
+category: ["UX/UI"]
 ---
 
 

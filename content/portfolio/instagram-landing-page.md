@@ -3,7 +3,7 @@ title: "Instagram Landing Page"
 date: 2018
 type: portfolio
 image: "images/projects/instagram-landing-page/instagram-cover.jpg"
-category: ["UI/UX"]
+category: ["UX/UI"]
 ---
 
 <b>Objectives</b><br>

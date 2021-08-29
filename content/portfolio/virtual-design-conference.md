@@ -3,7 +3,7 @@ title: "Virtual Design Conference"
 date: 2014
 type: portfolio
 image: "images/projects/virtual-design-conference/virtual-conference-cover.jpg"
-category: ["UI/UX"]
+category: ["UX/UI"]
 ---
 
 <b>Objectives</b><br>

@@ -3,7 +3,7 @@ title: "Skillet"
 date: 2016
 type: portfolio
 image: "images/projects/skillet/skillet-cover-thumb.jpg"
-category: ["UI/UX"]
+category: ["UX/UI"]
 ---
 
 <b>Objectives</b><br>
