@@ -2,7 +2,7 @@
 title: "Personalized Text"
 date: 2020-10-01
 type: portfolio
-image: "/images/projects/personalized-text/pt-cover.jpg"
+image: "/images/projects/personalized-text/pt-cover-2.jpg"
 category: ["UX/UI"]
 ---
 
@@ -49,7 +49,7 @@ category: ["UX/UI"]
 </div>
 <br><br><br>
 
-<p><img src="/images/projects/personalized-text/pt-cover.jpg" loading="lazy" alt="personalized text finalized product"></p>
+<p><img src="/images/projects/personalized-text/pt-cover-2.jpg" loading="lazy" alt="personalized text finalized product"></p>
 <br><br>
 
 
@@ -76,11 +76,11 @@ category: ["UX/UI"]
 	</div>
 </div>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/before.jpg" loading="lazy" alt="before making changes"></p>
+	<!--i>&#9757;&#127995; The original design tool only allowed flat content like text or images</i--><br><br>
 </div>
-<br-->
+<br>
 
 
 
@@ -126,11 +126,11 @@ category: ["UX/UI"]
 </div>
 <br>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/competitors-analysis.jpg" loading="lazy" alt="competitors analysis"></p>
+	<!--i>&#9757;&#127995; Analyzing competitors gave insights into what features were most popular for customization</i--><br><br>
 </div>
-<br-->
+<br>
 
 <h5>Iterations</h5>
 <div class="container">
@@ -142,11 +142,11 @@ category: ["UX/UI"]
 	</div>
 </div>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/sell-side-iterations.jpg" loading="lazy" alt="sell-side iterations"></p>
+	<i>&#9757;&#127995; I explored customized tool placement and decided to redesign the page layout</i><br><br>
 </div>
-<br-->
+<br>
 
 <div class="container">
 	<div class="row">
@@ -157,11 +157,11 @@ category: ["UX/UI"]
 	</div>
 </div>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/buy-side-iterations.jpg" loading="lazy" alt="buy-side iterations"></p>
+	<i>&#9757;&#127995; I explored button placement on mobile, testing edge cases like sellers create long header names</i><br><br>
 </div>
-<br-->
+<br>
 
 <h5>Usability testing</h5>
 <div class="container">
@@ -172,11 +172,11 @@ category: ["UX/UI"]
 	</div>
 </div>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/usability-testing-1.jpg" loading="lazy" alt="usability testing"></p>
+	<i>&#9757;&#127995; We changed the "delete all designs" button location as sellers confused it with "delete single design"</i><br><br>
 </div>
-<br-->
+<br>
 
 
 
@@ -189,11 +189,11 @@ category: ["UX/UI"]
 	</div>
 </div>
 
-<!--div style="text-align:center;">
-	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
-	<i>&#9757;&#127995; TODO: place bear caption</i><br><br>
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/visual-qa.jpg" loading="lazy" alt="visual qa"></p>
+	<i>&#9757;&#127995; Examples of visual quality assurance with engineers and QE team</i><br><br>
 </div>
-<br><br-->
+<br>
 
 
 <h3>Results</h3>
@@ -207,6 +207,30 @@ category: ["UX/UI"]
 		</div>
 	</div>
 </div>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/hero-sell-side-1.jpg" loading="lazy" alt="hero sell-side final"></p>
+	<!--i>&#9757;&#127995; Hero sell-side</i><br><br-->
+</div>
+<br>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/hero-sell-side-2.jpg" loading="lazy" alt="hero sell-side final"></p>
+	<!--i>&#9757;&#127995; Hero sell-side</i><br><br-->
+</div>
+<br>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/hero-buy-side-1.jpg" loading="lazy" alt="hero buy-side final"></p>
+	<!--i>&#9757;&#127995; Hero buy-side</i><br><br-->
+</div>
+<br>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/hero-buy-side-2.jpg" loading="lazy" alt="hero buy-side final"></p>
+	<!--i>&#9757;&#127995; Hero buy-side</i><br><br-->
+</div>
+<br>
 
 <!--div style="text-align:center;">
 	<p><img src="https://placebear.com/400/400" loading="lazy" alt="TODO: place bear place bear"></p>
