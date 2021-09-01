@@ -2,7 +2,7 @@
 # Hosted on Cloudflare Pages
 baseURL       = "https://msirikasem.com/"
 languageCode  = "en-us"
-title         = "Melissa Sirikasem | Professional Design Services"
+title         = "Melissa Sirikasem | Product Designer"
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
@@ -45,7 +45,7 @@ canonifyurls = true
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Melissa Sirikasem | Professional Design Services"
+  description = "Melissa Sirikasem | Product Designer"
   author = "Melissa Sirikasem"
   
   # Navbar Action Button
