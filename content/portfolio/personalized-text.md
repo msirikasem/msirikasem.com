@@ -128,7 +128,7 @@ category: ["UX/UI"]
 
 <div style="text-align:center;">
 	<p><img src="/images/projects/personalized-text/competitors-analysis.jpg" loading="lazy" alt="competitors analysis"></p>
-	<i>&#9757;&#127995; We compared our competitors features for text personalization and used that to prioritize our product offers</i><br><br>
+	<i>&#9757;&#127995; I compared our competitors features for text personalization and used that to prioritize our product offers</i><br><br>
 </div>
 <br>
 
