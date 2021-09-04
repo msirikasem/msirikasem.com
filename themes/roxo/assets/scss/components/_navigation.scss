@@ -1,7 +1,5 @@
 .site-navigation{
   @include mobile{
-    // margin: 2.5%;
-    // width: 95%;
     padding: 15px 0;
   }
 
@@ -67,7 +65,7 @@
     }
   }
   .navbar-toggler{
-    @include mobile{
+    @media (min-width: 320px) and (max-width: 768px) {
       padding-right: 23px;
       line-height: 5px;
     }
