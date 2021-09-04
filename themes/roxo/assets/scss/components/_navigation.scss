@@ -32,12 +32,12 @@
     .mfirst{
       font-weight: 600;
       @include mobile{
-        visibility: hidden;
+        display: none;
       }
     }
     .mlast{
       @include mobile{
-        visibility: hidden;
+        display: none;
       }
     }
   }
