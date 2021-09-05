@@ -4,6 +4,11 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    p{
+      @media (min-width: 320px) and (max-width: 425px){
+        text-align: center;
+      }
+    }
   }
   &-company{
     background: $primary-color;
@@ -24,12 +29,17 @@
   }
   &-header{
     text-align: center;
+    @include mobile{
+      padding-top: 8rem;
+      padding-bottom: 2rem;
+    }
     padding-top: 10rem;
     padding-bottom: 4rem;
     &-content{
       h1{
         @include mobile{
-          font-size: 2rem;
+          font-size: 1.8rem;
+          line-height: 2.2rem;
         }
         font-size: 55px;
         span{
@@ -48,9 +58,17 @@
 
   &-description{
     background: #F2F2F2;
+    @include mobile{
+      padding-top: 2rem;
+      padding-bottom: 4rem;
+    }
     padding-top: 4rem;
     padding-bottom: 4rem;
     p{
+      @media (min-width: 320px) and (max-width: 425px){
+        font-size: 18px;
+        line-height: 27px;
+      }
       font-size: 25px;
       font-weight: 300;
       margin-bottom: 0;

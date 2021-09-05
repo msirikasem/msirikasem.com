@@ -2,6 +2,9 @@
 resources/_gen/
 .DS_Store
 
+# Font archives
+*.zip
+
 # Local files not currently in-use
 .hidden/
 
