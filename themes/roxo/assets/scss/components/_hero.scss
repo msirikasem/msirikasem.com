@@ -36,8 +36,11 @@
 
       font-style: normal;
       font-weight: bold;
+
+      // Align across all pages
       font-size: 3rem;
       line-height: 4rem;
+
       span{
         color: $primary-color;
       }
