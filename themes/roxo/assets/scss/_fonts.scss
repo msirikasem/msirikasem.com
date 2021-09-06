@@ -1,5 +1,185 @@
 
-// TODO: this doesn't work yet
-@import "https://fonts.googleapis.com/css2?family=Raleway:300,400,600,700|Raleway:300,400,500,600,700&display=swap";
-@import "https://fonts.googleapis.com/css2?family=Montserrat:300,400,600,700|Montserrat:300,400,500,600,700&display=swap";
 
+// 100
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Thin"),
+       local("Raleway-Thin"),
+       url(/Raleway/static/Raleway-Thin.ttf);
+  font-weight: 100;
+}
+
+// 200
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway ExtraLight"),
+       local("Raleway-ExtraLight"),
+       url(/Raleway/static/Raleway-ExtraLight.ttf);
+  font-weight: 200;
+}
+
+// 300
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Light"),
+       local("Raleway-Light"),
+       url(/Raleway/static/Raleway-Light.ttf);
+  font-weight: 300;
+}
+
+// 400
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway"),
+       local("Raleway Regular"),
+       local("Raleway-Regular"),
+       url(/Raleway/static/Raleway-Regular.ttf);
+  font-weight: 400;
+}
+
+// 500
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Medium"),
+       local("Raleway-Medium"),
+       url(/Raleway/static/Raleway-Medium.ttf);
+  font-weight: 500;
+}
+
+// 600
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Semibold"),
+       local("Raleway-SemiBold"),
+       url(/Raleway/static/Raleway-SemiBold.ttf);
+  font-weight: 600;
+}
+
+// 700
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Bold"),
+       local("Raleway-Bold"),
+       url(/Raleway/static/Raleway-Bold.ttf);
+  font-weight: 700;
+}
+
+// 800
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway ExtraBold"),
+       local("Raleway-ExtraBold"),
+       url(/Raleway/static/Raleway-ExtraBold.ttf);
+  font-weight: 800;
+}
+
+// 900
+@font-face {
+  font-family: Raleway;
+  font-style: normal;
+  src: local("Raleway Black"),
+       local("Raleway-Black"),
+       url(/Raleway/static/Raleway-Black.ttf);
+  font-weight: 900;
+}
+
+
+
+// 100
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Thin"),
+       local("Montserrat-Thin"),
+       url(/Montserrat/Montserrat-Thin.ttf);
+  font-weight: 100;
+}
+
+// 200
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat ExtraLight"),
+       local("Montserrat-ExtraLight"),
+       url(/Montserrat/Montserrat-ExtraLight.ttf);
+  font-weight: 200;
+}
+
+// 300
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Light"),
+       local("Montserrat-Light"),
+       url(/Montserrat/Montserrat-Light.ttf);
+  font-weight: 300;
+}
+
+// 400
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat"),
+       local("Montserrat Regular"),
+       local("Montserrat-Regular"),
+       url(/Montserrat/Montserrat-Regular.ttf);
+  font-weight: 400;
+}
+
+// 500
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Medium"),
+       local("Montserrat-Medium"),
+       url(/Montserrat/Montserrat-Medium.ttf);
+  font-weight: 500;
+}
+
+// 600
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Semibold"),
+       local("Montserrat-SemiBold"),
+       url(/Montserrat/Montserrat-SemiBold.ttf);
+  font-weight: 600;
+}
+
+// 700
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Bold"),
+       local("Montserrat-Bold"),
+       url(/Montserrat/Montserrat-Bold.ttf);
+  font-weight: 700;
+}
+
+// 800
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat ExtraBold"),
+       local("Montserrat-ExtraBold"),
+       url(/Montserrat/Montserrat-ExtraBold.ttf);
+  font-weight: 800;
+}
+
+// 900
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  src: local("Montserrat Black"),
+       local("Montserrat-Black"),
+       url(/Montserrat/Montserrat-Black.ttf);
+  font-weight: 900;
+}
