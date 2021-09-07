@@ -1,6 +1,6 @@
 
 .site-project{
-  @include mobile{
+  @media (min-width: 320px) and (max-width: 1024px){
     margin-top: 3.5rem;
     padding-top: 2rem;
   }
@@ -129,22 +129,34 @@
     text-align: center;
     padding-top: 10rem;
     padding-bottom: 4rem;
-    // background: $white;
 
-    // padding: 170px 0 100px;
-    // background: $gray;
     @include tablet{
       padding: 120px 0 80px;
     }
     &-content{
       h1{
-        font-size: 55px;
+        @include mobile{
+          // Align across all pages
+          font-size: 1.6rem;
+          line-height: 2.2rem;
+
+          // Adjust to match mockup
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+
+        // Align across all pages
+        font-style: normal;
         font-weight: bold;
+        font-size: 3rem;
+        line-height: 4rem;
+
+        // Adjust to match mockup
+        padding-left: 60px;
+        padding-right: 60px;
+
         span{
           color: $primary-color;
-        }
-        @include tablet{
-          font-size: 40px;
         }
       }
       @include desktop{

@@ -9,10 +9,25 @@
   }
   &-title{
     text-align: center;
-    font-weight: bold;
-    @include tablet{
-      font-size: 40px;
+
+    @media (min-width: 320px) and (max-width: 767px){
+      // Align across all pages
+      padding-left: 0px;
+      padding-right: 0px;
+      font-size: 1.6rem;
+      line-height: 2.2rem;
     }
+
+    // Align across all pages
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4rem;
+
+    // Adjust to match mockup
+    padding-left: 60px;
+    padding-right: 60px;
+
     span{
       color: $primary-color;
     }

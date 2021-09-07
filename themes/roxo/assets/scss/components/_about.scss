@@ -38,11 +38,22 @@
     &-content{
       h1{
         @include mobile{
-          font-size: 1.8rem;
+          // Align across all pages
+          padding-left: 0px;
+          padding-right: 0px;
+          font-size: 1.6rem;
           line-height: 2.2rem;
         }
-        font-size: 55px;
+        // Align across all pages
+        font-style: normal;
         font-weight: bold;
+        font-size: 3rem;
+        line-height: 4rem;
+
+        // Adjust to match mockup
+        padding-left: 80px;
+        padding-right: 80px;
+
         span{
           color: $primary-color;
         }
