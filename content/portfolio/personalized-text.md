@@ -116,14 +116,12 @@ category: ["UX/UI"]
 
 
 <h3>Process</h3>
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
-			Kick-off &rarr; Iterations &rarr; Usability testing &rarr; Implementation &rarr; Launch
-		</div>
-	</div>
+<br>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/process.jpg" loading="lazy" alt="process: kick-off iterations usability testing implementation launch"></p>
 </div>
-<br><br>
+<br>
 
 <h5>Kick-off</h5>
 <div class="container">
@@ -145,11 +143,17 @@ category: ["UX/UI"]
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
-			<b>Sell-side</b>
+			<h4 class="cs-emphasis-header">Sell-side</h4>
 			<p>I worked on the seller side first, as it is the most complex part. We needed to consider fulfillment aspects, as we have a mix of in-house and 3rd parties to produce customization products seamlessly. We ensured product mockups on the back end match designs that the merchant created, to show buyers a preview that matches the final product that they will get as close as possible. I listed the user flow total of 26 use cases to predict potential edge cases that systems need to prevent.</p>
 		</div>
 	</div>
 </div>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/sell-side-sketches.jpg" loading="lazy" alt="sell-side sketches"></p>
+	<i>&#9757;&#127995; I drew different user flows to determine the approach that we should move forward with for high fidelity mockups</i><br><br>
+</div>
+<br>
 
 <div style="text-align:center;">
 	<p><img src="/images/projects/personalized-text/sell-side-iterations.jpg" loading="lazy" alt="sell-side iterations"></p>
@@ -160,11 +164,17 @@ category: ["UX/UI"]
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
-			<b>Buy-side</b>
+			<h4 class="cs-emphasis-header">Buy-side</h4>
 			<p>I researched our competitors, looking for inspiration, and then created a rough wireframe to discuss feasibility with the development team early on. Project managers wanted a way to disable features if they hurt conversion, so we built the experience in a modal. 70% of order purchases happen on mobile, so we targeted the mobile experience first, then desktop.</p>
 		</div>
 	</div>
 </div>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/buy-side-sketches.jpg" loading="lazy" alt="buy-side sketches"></p>
+	<i>&#9757;&#127995; I mapped out user flow and created a rough wireframe</i><br><br>
+</div>
+<br>
 
 <div style="text-align:center;">
 	<p><img src="/images/projects/personalized-text/buy-side-iterations.jpg" loading="lazy" alt="buy-side iterations"></p>
