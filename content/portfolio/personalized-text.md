@@ -78,7 +78,6 @@ category: ["UX/UI"]
 <br>
 
 
-
 <h3>Goals</h3>
 <div class="container">
 	<div class="row">
@@ -99,6 +98,21 @@ category: ["UX/UI"]
 		</div>
 	</div>
 </div>
+
+
+<h3>Scope</h3>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<p>Personalized text project involved three different platforms: seller-side platform, buyer-side marketplace, and customer service platform. To make this case study more concise, we will focus on the seller-side platform and buyer-side marketplace.</p>
+		</div>
+	</div>
+</div>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/scope.jpg" loading="lazy" alt="project scope"></p>
+</div>
+<br>
 
 
 <h3>Process</h3>
