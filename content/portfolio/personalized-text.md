@@ -60,6 +60,11 @@ category: ["UX/UI"]
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
+			<h4>Scalable was losing sellers to competitors for not providing product customization on Chip, an eCommerce platform.</h4>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
 			<p>Product customization is a rapidly rising trend in the print-on-demand market. Consumers value items that can convey individuality for the person who bought or received them as a gift. Our merchants requested the ability to create personalizable products. We were seeing a pattern of sellers leaving our platform because we didn't offer customization.</p><br>
 			<br>
 		</div>
