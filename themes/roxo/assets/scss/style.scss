@@ -1,37 +1,24 @@
 
+// Shared components
 @import "fonts";
-
 @import "variables";
-
 @import "typography";
-
 @import "mixins";
-
 @import "buttons";
-
 @import "common";
 
+// Modules
 @import "components/navigation";
-
 @import "components/hero";
-
 @import "components/counter";
-
 @import "components/project";
-
+@import "components/caseStudy";
 @import "components/blog";
-
 @import "components/testimonial";
-
 @import "components/cta";
-
 @import "components/about";
-
 @import "components/client";
-
 @import "components/team";
-
 @import "components/contact";
-
 @import "components/footer";
 
