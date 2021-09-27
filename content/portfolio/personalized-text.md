@@ -192,8 +192,14 @@ category: ["UX/UI"]
 </div>
 
 <div style="text-align:center;">
-	<p><img src="/images/projects/personalized-text/usability-testing-1.jpg" loading="lazy" alt="usability testing"></p>
+	<p><img src="/images/projects/personalized-text/usability-testing-1.jpg" loading="lazy" alt="changed delete all designs button to reduce confusion"></p>
 	<i>&#9757;&#127995; We changed the "delete all designs" button location as sellers confused it with "delete single design"</i><br><br>
+</div>
+<br>
+
+<div style="text-align:center;">
+	<p><img src="/images/projects/personalized-text/usability-testing-2.jpg" loading="lazy" alt="changed personalization tag to reduce confusion"></p>
+	<i>&#9757;&#127995; We changed the personalization tag into an icon as sellers confused it with a button</i><br><br>
 </div>
 <br>
 
