@@ -225,10 +225,11 @@ category: ["UX/UI"]
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-10 col-lg-8">
-			<p>The personalized text feature is a high-performance feature.<br>
-			&emsp;1. Personalize text items generate 10% of the total gross merchandise value.<br>
-			&emsp;2. Generated $2 million in monthly revenue and increase conversion by 4% within 3 months.<br>
-			</p>
+			<p>The personalized text feature is a high-performance feature.</p>
+			<ul>
+				<li class="cs-emphasis-item">Personalize text items generate 10% of the total gross merchandise value.</li>
+				<li class="cs-emphasis-item">Generated $2 million in monthly revenue and increased conversion by 4% within 3 months.</li>
+			</ul><br>
 		</div>
 	</div>
 </div>
