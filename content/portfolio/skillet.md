@@ -1,6 +1,6 @@
 ---
 title: "Skillet"
-date: 2016
+date: 2018-09-01
 type: portfolio
 image: "images/projects/skillet/skillet-cover-thumb.jpg"
 category: ["UX/UI"]
@@ -20,6 +20,9 @@ Visual Systems, User Interface, User Experience
 
 <b>Type of project</b><br>
 Mobile App, Book, Logo, Icons
+
+<b>Process</b><br>
+Read design process details <a href="https://issuu.com/melissasirikasem/docs/skillet_pdf_page_for_issue" target="_blank" rel="noopener noreferrer">here.</a>
 
 <img src="/images/projects/skillet/skillet-cover.jpg" loading="lazy" alt="skillet"><br>
 

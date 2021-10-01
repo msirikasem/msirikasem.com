@@ -1,6 +1,6 @@
 ---
 title: "Franchise and Enterprise"
-date: 2018
+date: 2018-10-01
 type: portfolio
 image: "images/projects/franchise-and-enterprise/franchise-cover.jpg"
 category: ["UX/UI"]

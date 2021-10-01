@@ -63,7 +63,7 @@ canonifyurls = true
 
   [params.portfolio]
     enable    = true
-    title     = "MY PROJECTS"
+    title     = "FEATURED PROJECTS"
     subtitle  = ""
 
   [params.call_to_action]
