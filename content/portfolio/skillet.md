@@ -21,14 +21,6 @@ Visual Systems, User Interface, User Experience
 <b>Type of project</b><br>
 Mobile App, Book, Logo, Icons
 
-<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=u5ao39co7k"
-	width="100%" height="700" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen>
-</iframe>
-<br><br>
-
-<!--b>Process</b><br>
-Read design process details <a href="https://issuu.com/melissasirikasem/docs/skillet_pdf_page_for_issue" target="_blank" rel="noopener noreferrer">here.</a-->
-
 <img src="/images/projects/skillet/skillet-cover.jpg" loading="lazy" alt="skillet"><br>
 
 <img src="/images/projects/skillet/skillet-1.jpg" loading="lazy" alt="skillet"><br>
@@ -40,4 +32,13 @@ Read design process details <a href="https://issuu.com/melissasirikasem/docs/ski
 <img src="/images/projects/skillet/skillet-4.jpg" loading="lazy" alt="skillet"><br>
 
 <img src="/images/projects/skillet/skillet-5.jpg" loading="lazy" alt="skillet"><br>
+
+<b>Preview</b><br>
+<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=u5ao39co7k"
+	width="100%" height="700" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen>
+</iframe>
+<br><br>
+
+<b>Process</b><br>
+Read full design process details <a href="https://issuu.com/melissasirikasem/docs/skillet_pdf_page_for_issue" target="_blank" rel="noopener noreferrer">here.</a>
 
