@@ -6,7 +6,17 @@ image: "/images/projects/personalized-text/pt-cover-2.jpg"
 category: ["UX/UI"]
 ---
 
-
+<!-- Hotjar Tracking Code for https://msirikasem.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2655897,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 
 <div class="container cs-summary">
 	<div class="row cs-summary-row">
